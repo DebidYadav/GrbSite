@@ -136,7 +136,7 @@ span.price {
           
         </div>
        
-        <input type="submit"  value="Proceed to pay" class="btn">
+        <input type="Submit"  value="Proceed to pay" class="btn">
       </form>
     </div>
   </div>
